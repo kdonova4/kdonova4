@@ -21,7 +21,8 @@ During my time at HTD Talent, I gained hands-on experience building full-stack a
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Frameworks & Libraries: 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -69,12 +70,16 @@ HTD Talent Capstone Project
 - Contributed to writing and maintaining unit tests using JUnit and Mockito to ensure backend reliability
 - Worked closely with the team to manage GitHub workflows, resolve merge conflicts, and track bugs effectively
 
-## 🧠 Upcoming Projects
+### 🚇 [Echoes of the Metro](echoesofthemetro.com) <--- Live Website Here
+**Full Stack Short Story Immersive Platform Set In The Metro Universe**   
+_Deployed with Microsoft Azure and Netlify_  
+[Code](https://github.com/kdonova4/EchoesOfTheMetro)
 
-### 🛒 [GrabIt](https://github.com/kdonova4/grabit/tree/dev)
-**Full Stack E-Commerce Web App**
+- Developed and deployed the web application with 20+ REST API endpoints, tested with Junit and Mockito.
+- Deployed the Spring Boot backend and the PostgreSQL database on Microsoft Azure.
+- Designed an immersive, interactive UI using CSS and MUI, creating a visally engaging experience across all pages and enhancing the overall user experience.
+- Reduced frontend runtime errors by leveraging TypeScript's type system accross components and interfaces, improving maintainability and efficiency.
 
-This web app will serve as a place where users can be buyers or sellers, or both. They will be able to bid on items, buy items, make offers. They can also list their own items and monitor them, select and respond to offers, see bids on their items in real time.
 
 ## 📊 GitHub Stats
 
@@ -84,4 +89,4 @@ This web app will serve as a place where users can be buyers or sellers, or both
 
 
 
-### Thanks for stopping by — feel free to check out my projects and reach out if you want to collaborate!
+### Thanks for stopping by — feel free to check out my projects and reach out to me!
