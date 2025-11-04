@@ -70,7 +70,7 @@ HTD Talent Capstone Project
 - Contributed to writing and maintaining unit tests using JUnit and Mockito to ensure backend reliability
 - Worked closely with the team to manage GitHub workflows, resolve merge conflicts, and track bugs effectively
 
-### 🚇 [Echoes of the Metro](echoesofthemetro.com) <--- Live Website Here
+### 🚇 [Echoes of the Metro](https://echoesofthemetro.com) <--- Live Website Here
 **Full Stack Short Story Immersive Platform Set In The Metro Universe**   
 _Deployed with Microsoft Azure and Netlify_  
 [Code](https://github.com/kdonova4/EchoesOfTheMetro)
